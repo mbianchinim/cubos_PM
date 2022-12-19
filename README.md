@@ -101,6 +101,29 @@ M01 - A02 - Exercício - Pousando a nave no mundo de produto
 
   2. Você encontrou o “culpado”: alguém com 3 meses apenas no time. Como você reporta em um e-mail pra sua head a solução. E qual a solução?
 
+Boa tarde fulano, 
+
+    Devido ao impacto encontrado com os custos de infra, tomamos um plano de ação para reduzir os gastos. 
+
+    Peço desculpas mais uma vez em nome do time e caso a empresa precise tomar alguma atitude de ordem financeira, por favor me deixe ciente para que eu possa acompanhar o processo de perto. 
+    
+    
+M01 - A05 - Exercício Revisão - Mundo SER PM
+
+  Explique pra sua mãe o que é um produto digital:
+      
+      É algo que cria valor específico para um grupo de pessoas (clientes e pessoas usuárias/ B2C) podendo ser diretamente para empresas B2B. 
+      
+  Explique pra sua mãe a diferença de product manager para product owner
+  
+      PM estará lidando com o 'mundo' externo, entendendo onde pode entregar valor, o PO é uma função do guida do scrum e ficará internamente com os times,         indicando como podemos desenvolver soluções para otimizar a vida dos usuários  
+      
+  Conte a sua mãe 4 palavras novas que você tem no seu vocabulário agora pós módulo 1 do curso
+  
+      Por já trabalhar na área nenhuma novidade.
+
+
+
 
 
 

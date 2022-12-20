@@ -123,6 +123,8 @@ M01 - A05 - Exercício Revisão - Mundo SER PM
       Por já trabalhar na área nenhuma novidade.
 
 
+Super trunfo: https://docs.google.com/presentation/d/120nkj-0oxxxW0iVr2X2xzixrs6BUn7Z-/edit?usp=sharing&ouid=112542891840487211113&rtpof=true&sd=true
+
 
 
 
